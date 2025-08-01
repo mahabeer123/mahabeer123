@@ -18,7 +18,6 @@
 🌍 **Coming from a humble background** with ambitious dreams  
 🔄 **Consistently pushing** toward personal & professional growth  
 🚀 **Dreaming of a stable, impactful career** in technology  
- **Believer in self-discipline, hard work & continuous learning**  
 🎯 **Specializing in**: Algorithm Design, Full-Stack Development, Machine Learning  
 
 ---
@@ -42,7 +41,7 @@
 
 ---
 
-## 🚀 Featured Projects:
+## 🚀 My Projects:
 
 ### 🚚 Vehicle Routing Problem (VRP)
 <div align="center">
@@ -104,7 +103,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
 </div>
 
-### **�� Machine Learning & Data Science**
+### ** Machine Learning & Data Science**
 <div align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
@@ -193,8 +192,6 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mahabeer123&icon=0&color=0" alt="Profile Views" />
-  <br>
   <img src="https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+amazing+things+together!&center=true&width=500&height=50&color=00d4ff&vCenter=true&size=20&pause=2000">
 </div>
 
@@ -202,6 +199,18 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahabeer123&theme=monokai&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahabeer123&theme=monokai" alt="Repos per Language" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahabeer123&theme=monokai" alt="Most Commit Language" />
 </div>
 
 ---
