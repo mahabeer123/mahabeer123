@@ -1,15 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Mahabeer+Patnaik!;CSE+Student+%7C+Problem+Solver+%7C+Tech+Enthusiast;Passionate+about+Algorithms+%26+Full-Stack+Development&center=true&width=1000&height=50&color=00d4ff&vCenter=true&size=25&pause=1000">
 </div>
-
 ---
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahabeer123&theme=monokai" alt="Profile Details" />
 </div>
-
 ---
-
 # 💫 About Me:
 
 🎓 **2025 CSE Graduate** from VSSUT Burla, Odisha  
@@ -21,7 +17,6 @@
 🎯 **Specializing in**: Algorithm Design, Full-Stack Development, Machine Learning  
 
 ---
-
 ## Connect With Me:
 
 <div align="center">
@@ -38,9 +33,7 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
 ---
-
 ## 💻 Tech Stack:
 
 ### **🖥️ Programming Languages**
@@ -75,9 +68,7 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
-
 ---
-
 ## 📊 GitHub Analytics:
 
 <div align="center">
@@ -88,17 +79,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabeer123&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
 ---
-
 ## 🏆 GitHub Achievements:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahabeer123&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-
 ---
-
 ## Skills Progress:
 
 <div align="center">
@@ -108,9 +95,7 @@
   <img src="https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Intermediate" />
   <img src="https://img.shields.io/badge/ML-Intermediate-purple?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Intermediate" />
 </div>
-
 ---
-
 ## 🎯 Current Focus:
 
 <div align="center">
@@ -119,50 +104,39 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-purple?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Interview%20Preparation-Ongoing-orange?style=for-the-badge" alt="Interview Preparation" />
 </div>
-
 ---
-
 ## 🔝 Top Contributions:
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=mahabeer123&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
-
 ---
-
 ## 💡 Random Dev Quote:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-
 ---
-
 ## Project Highlights:
 
 | Project | Live Demo | Key Achievement | Tech Stack |
 |---------|-----------|-----------------|------------|
 | **🚚 VRP Algorithm** | [Live Demo](https://vehicle-routing-framework.streamlit.app/) | 31% better performance | C++, Python, Streamlit |
-| **️ Fraud Detection** | [Live Demo](https://github.com/mahabeer123/Credit-Card-Fraud-Detection) | 96% ROC-AUC | Python, ML, SHAP |
-| ** Chat App** | [Live Demo](https://chat-app-u7k4.vercel.app) | Real-time messaging | React, Firebase, Redux |
+| **Fraud Detection** | [Live Demo](https://github.com/mahabeer123/Credit-Card-Fraud-Detection) | 96% ROC-AUC | Python, ML, SHAP |
+| **Chat App** | [Live Demo](https://chat-app-u7k4.vercel.app) | Real-time messaging | React, Firebase, Redux |
 
 ---
-
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+amazing+things+together!&center=true&width=1000&height=50&color=00d4ff&vCenter=true&size=20&pause=2000">
 </div>
-
 ---
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahabeer123&theme=monokai&utcOffset=5.5" alt="Productive Time" />
 </div>
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mahabeer123&color=blue&style=flat-square" alt="Profile Views" />
 </div>
-
 ---
 
 **Proudly created with ❤️ and [GPRM](https://gprm.itsvg.in)**<div align="center">
