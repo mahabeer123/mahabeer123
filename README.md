@@ -160,7 +160,7 @@
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mahabeer123&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mahabeer123&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
