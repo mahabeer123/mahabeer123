@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Mahabeer+Patnaik!;CSE+Student+%7C+Problem+Solver+%7C+Tech+Enthusiast;Passionate+about+Algorithms+%26+Full-Stack+Development&center=true&width=500&height=50&color=00d4ff&vCenter=true&size=25&pause=1000">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Mahabeer+Patnaik!;CSE+Student+%7C+Problem+Solver+%7C+Tech+Enthusiast;Passionate+about+Algorithms+%26+Full-Stack+Development&center=true&width=1000&height=50&color=00d4ff&vCenter=true&size=25&pause=1000">
 </div>
 
 ---
