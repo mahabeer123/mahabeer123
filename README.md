@@ -1,27 +1,221 @@
-# 💫 About Me:
-🎓 2025 CSE graduate from VSSUT Burla, Odisha  <br>🌱 Learning DSA, JavaScript, React, Python, and Cloud  <br>💻 Passionate about building real-world projects  <br>🌍 Coming from a humble background with big dreams  <br>🔄 Consistently pushing toward personal & professional growth  <br>🚀 Dreaming of a stable, impactful career in tech  <br>📚 Believer in self-discipline, hard work & continuous learning
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jMCZ5kCE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahabeerpatnaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahabeerpatnaik@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahabeer123&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahabeer123&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabeer123&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahabeer123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahabeer123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Mahabeer+Patnaik!;CSE+Student+%7C+Problem+Solver+%7C+Tech+Enthusiast;Passionate+about+Algorithms+%26+Full-Stack+Development&center=true&width=500&height=50&color=00d4ff&vCenter=true&size=25&pause=1000">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahabeer123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahabeer123&theme=monokai" alt="Profile Details" />
+</div>
+
+---
+
+# 💫 About Me:
+
+🎓 **2025 CSE Graduate** from VSSUT Burla, Odisha  
+🌱 **Currently Learning**: DSA, JavaScript, React, Python, and Cloud Technologies  
+💻 **Passionate** about building real-world projects and solving complex problems  
+🌍 **Coming from a humble background** with ambitious dreams  
+🔄 **Consistently pushing** toward personal & professional growth  
+🚀 **Dreaming of a stable, impactful career** in technology  
+�� **Believer in self-discipline, hard work & continuous learning**  
+🎯 **Specializing in**: Algorithm Design, Full-Stack Development, Machine Learning  
+
+---
+
+## �� Connect With Me:
+
+<div align="center">
+  <a href="https://discord.gg/https://discord.gg/jMCZ5kCE">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://linkedin.com/in/mahabeerpatnaik">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mahabeerpatnaik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mahabeer123">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+## 🚀 Featured Projects:
+
+### 🚚 Vehicle Routing Problem (VRP) - Algorithm Excellence
+<div align="center">
+  <a href="https://github.com/mahabeer123/Vehicle-Routing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahabeer123&repo=Vehicle-Routing&theme=monokai&hide_border=true" alt="Vehicle Routing Problem" />
+  </a>
+</div>
+
+**🏆 Key Achievements:**
+- **Custom Algorithm**: 31% better than Clarke-Wright, 8.3% better than Nearest Neighbor
+- **Live Demo**: [https://vehicle-routing-framework.streamlit.app/](https://vehicle-routing-framework.streamlit.app/)
+- **Tech Stack**: C++ (O2 optimization) + Python + Streamlit
+- **Real-World Impact**: Logistics optimization, delivery efficiency
+
+### ��️ Credit Card Fraud Detection - ML Excellence
+<div align="center">
+  <a href="https://github.com/mahabeer123/Credit-Card-Fraud-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahabeer123&repo=Credit-Card-Fraud-Detection&theme=monokai&hide_border=true" alt="Credit Card Fraud Detection" />
+  </a>
+</div>
+
+**🏆 Key Achievements:**
+- **ROC-AUC**: 0.9604 (Industry-standard excellence)
+- **Recall**: 91.96% (Catches 92% of fraud cases)
+- **Live Demo**: Interactive fraud detection system
+- **Tech Stack**: Scikit-learn, SHAP, Streamlit, Feature Engineering
+
+### 💬 Chat App - Full-Stack Excellence
+<div align="center">
+  <a href="https://github.com/mahabeer123/Chat-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahabeer123&repo=Chat-App&theme=monokai&hide_border=true" alt="Chat App" />
+  </a>
+</div>
+
+**🏆 Key Achievements:**
+- **Live Demo**: [https://chat-app-u7k4.vercel.app](https://chat-app-u7k4.vercel.app)
+- **Real-Time Features**: Messaging, typing indicators, file sharing
+- **Tech Stack**: React, Firebase, Redux, Tailwind CSS
+- **Deployments**: 15+ successful deployments on Vercel
+
+---
+
+## 💻 Tech Stack:
+
+### **🖥️ Programming Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
+
+### **🌐 Frontend & Web Technologies**
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+</div>
+
+### **�� Machine Learning & Data Science**
+<div align="center">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+</div>
+
+### **☁️ Backend & Cloud Services**
+<div align="center">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+## 📊 GitHub Analytics:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahabeer123&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahabeer123&theme=monokai&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabeer123&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahabeer123&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## �� Skills Progress:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Expert" />
+  <img src="https://img.shields.io/badge/Python-Advanced-green?style=for-the-badge&logo=python&logoColor=white" alt="Python Advanced" />
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Intermediate" />
+  <img src="https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Intermediate" />
+  <img src="https://img.shields.io/badge/ML-Intermediate-purple?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Intermediate" />
+</div>
+
+---
+
+## 🎯 Current Focus:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Algorithm%20Design-Active-brightgreen?style=for-the-badge" alt="Algorithm Design" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-Learning-blue?style=for-the-badge" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-purple?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Interview%20Preparation-Ongoing-orange?style=for-the-badge" alt="Interview Preparation" />
+</div>
+
+---
+
+## 🔝 Top Contributions:
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mahabeer123&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
+
+---
+
+## 💡 Random Dev Quote:
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+## �� Goals for 2024-2025:
+
+- [x] **Complete CSE degree** from VSSUT Burla
+- [x] **Master DSA** and problem-solving skills
+- [x] **Build 3+ real-world projects** (VRP, Fraud Detection, Chat App)
+- [x] **Learn React and modern web development**
+- [x] **Explore Machine Learning and AI**
+- [ ] **Secure a great tech job**
+- [ ] **Contribute to open-source projects**
+
+---
+
+## �� Project Highlights:
+
+| Project | Live Demo | Key Achievement | Tech Stack |
+|---------|-----------|-----------------|------------|
+| **🚚 VRP Algorithm** | [Live Demo](https://vehicle-routing-framework.streamlit.app/) | 31% better performance | C++, Python, Streamlit |
+| **��️ Fraud Detection** | [Live Demo](https://github.com/mahabeer123/Credit-Card-Fraud-Detection) | 96% ROC-AUC | Python, ML, SHAP |
+| **�� Chat App** | [Live Demo](https://chat-app-u7k4.vercel.app) | Real-time messaging | React, Firebase, Redux |
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mahabeer123&icon=0&color=0" alt="Profile Views" />
+  <br>
+  <img src="https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+amazing+things+together!&center=true&width=500&height=50&color=00d4ff&vCenter=true&size=20&pause=2000">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahabeer123&theme=monokai&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+---
+
+**Proudly created with ❤️ and [GPRM](https://gprm.itsvg.in)**
