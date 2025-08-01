@@ -18,12 +18,12 @@
 🌍 **Coming from a humble background** with ambitious dreams  
 🔄 **Consistently pushing** toward personal & professional growth  
 🚀 **Dreaming of a stable, impactful career** in technology  
-�� **Believer in self-discipline, hard work & continuous learning**  
+ **Believer in self-discipline, hard work & continuous learning**  
 🎯 **Specializing in**: Algorithm Design, Full-Stack Development, Machine Learning  
 
 ---
 
-## �� Connect With Me:
+## Connect With Me:
 
 <div align="center">
   <a href="https://discord.gg/https://discord.gg/jMCZ5kCE">
@@ -44,7 +44,7 @@
 
 ## 🚀 Featured Projects:
 
-### 🚚 Vehicle Routing Problem (VRP) - Algorithm Excellence
+### 🚚 Vehicle Routing Problem (VRP)
 <div align="center">
   <a href="https://github.com/mahabeer123/Vehicle-Routing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahabeer123&repo=Vehicle-Routing&theme=monokai&hide_border=true" alt="Vehicle Routing Problem" />
@@ -57,7 +57,7 @@
 - **Tech Stack**: C++ (O2 optimization) + Python + Streamlit
 - **Real-World Impact**: Logistics optimization, delivery efficiency
 
-### ��️ Credit Card Fraud Detection - ML Excellence
+###️ Credit Card Fraud Detection
 <div align="center">
   <a href="https://github.com/mahabeer123/Credit-Card-Fraud-Detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahabeer123&repo=Credit-Card-Fraud-Detection&theme=monokai&hide_border=true" alt="Credit Card Fraud Detection" />
@@ -70,7 +70,7 @@
 - **Live Demo**: Interactive fraud detection system
 - **Tech Stack**: Scikit-learn, SHAP, Streamlit, Feature Engineering
 
-### 💬 Chat App - Full-Stack Excellence
+### 💬 Chat App
 <div align="center">
   <a href="https://github.com/mahabeer123/Chat-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahabeer123&repo=Chat-App&theme=monokai&hide_border=true" alt="Chat App" />
@@ -143,7 +143,7 @@
 
 ---
 
-## �� Skills Progress:
+## Skills Progress:
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Expert" />
@@ -182,25 +182,13 @@
 
 ---
 
-## �� Goals for 2024-2025:
-
-- [x] **Complete CSE degree** from VSSUT Burla
-- [x] **Master DSA** and problem-solving skills
-- [x] **Build 3+ real-world projects** (VRP, Fraud Detection, Chat App)
-- [x] **Learn React and modern web development**
-- [x] **Explore Machine Learning and AI**
-- [ ] **Secure a great tech job**
-- [ ] **Contribute to open-source projects**
-
----
-
-## �� Project Highlights:
+## Project Highlights:
 
 | Project | Live Demo | Key Achievement | Tech Stack |
 |---------|-----------|-----------------|------------|
 | **🚚 VRP Algorithm** | [Live Demo](https://vehicle-routing-framework.streamlit.app/) | 31% better performance | C++, Python, Streamlit |
-| **��️ Fraud Detection** | [Live Demo](https://github.com/mahabeer123/Credit-Card-Fraud-Detection) | 96% ROC-AUC | Python, ML, SHAP |
-| **�� Chat App** | [Live Demo](https://chat-app-u7k4.vercel.app) | Real-time messaging | React, Firebase, Redux |
+| **️ Fraud Detection** | [Live Demo](https://github.com/mahabeer123/Credit-Card-Fraud-Detection) | 96% ROC-AUC | Python, ML, SHAP |
+| ** Chat App** | [Live Demo](https://chat-app-u7k4.vercel.app) | Real-time messaging | React, Firebase, Redux |
 
 ---
 
